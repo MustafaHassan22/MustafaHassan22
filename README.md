@@ -31,7 +31,7 @@
 
 
 ## 🌟 My Contributions
-<img src="https://github.com/MustafaHassan22/MustafaHassan22/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation"/>
+<img src="https://github.com/MustafaHassan22/MustafaHassan22/blob/output/github-snake-dark.svg" width="100%" alt="Snake animation"/>
 
 
 ### My Tech Stack
