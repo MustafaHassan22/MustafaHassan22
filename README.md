@@ -36,7 +36,7 @@
 
 ### My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,vscode,dart,firebase,discord,docker,aws,kubernetes,python,javascript,typescript,git,github,cpp,java,kotlin,rust,react,nodejs,html,css,tailwind&theme=dark&perline=11" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=flutter,vscode,dart,firebase,discord,docker,aws,kubernetes,python,javascript,typescript,php,laravel,mysql,redis,git,github,cpp,java,kotlin,rust,react,nodejs,html,css,tailwind&theme=dark&perline=11" alt="Skills"/>
 </p>
 
 
